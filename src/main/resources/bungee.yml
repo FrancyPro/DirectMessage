@@ -1,5 +1,5 @@
 name: DirectMessage
 version: '${project.version}'
-main: net.daechler.directmessage.DirectMessage
+main: net.daechler.directmessage.bungee.DirectMessage
 author: Daechler
 description: A simple direct messaging plugin for BungeeCord.

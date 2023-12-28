@@ -1,0 +1,8 @@
+{
+  "id": "directmessage",
+  "name": "DirectMessage",
+  "main": "net.daechler.directmessage.velocity.DirectMessage",
+  "version": "1.0",
+  "description": "A simple direct messaging plugin for Velocity.",
+  "authors": ["Daechler"]
+}
